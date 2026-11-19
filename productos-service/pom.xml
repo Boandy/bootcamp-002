@@ -24,8 +24,7 @@
     <jackson-bom.version>3.1.7</jackson-bom.version>
   </properties>
 
-  <dependencies>
-  
+  <dependencies>  
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
@@ -47,7 +46,6 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
-
   </dependencies>
 
   <build>
